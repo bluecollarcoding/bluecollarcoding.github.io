@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Ramsays Renos</title>
+    <link>https://bluecollarcoding.github.io/</link>
+    <description>Recent content in Home on Ramsays Renos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>zach@bluecollarcoding.ca (Zach Ramsay)</managingEditor>
+    <webMaster>zach@bluecollarcoding.ca (Zach Ramsay)</webMaster>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bluecollarcoding.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://bluecollarcoding.github.io/about/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <author>zach@bluecollarcoding.ca (Zach Ramsay)</author>
+      <guid>https://bluecollarcoding.github.io/about/</guid>
+      <description>With a knack for building things since an early age, I recently returned to my first true passion of carpentry. This site serves as an archive of all my projects. Spending my 20s in academia then tech, the thing that always made me the most happy was working on fun DIY projects. In the spring/summer of 2019, we built a beautiful 200ft fence around the property I manage &amp;hellip; and by August I was ready to take my construction skills to the next level.</description>
+    </item>
+    
+    <item>
+      <title>Fences</title>
+      <link>https://bluecollarcoding.github.io/fences/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <author>zach@bluecollarcoding.ca (Zach Ramsay)</author>
+      <guid>https://bluecollarcoding.github.io/fences/</guid>
+      <description>The old fence was in disarray:
+The design for the fence came from a colleague, who also recommended the same sawmill. Getting wood direct from the source is both cheaper and higher quality.</description>
+    </item>
+    
+    <item>
+      <title>Rainwater Collection</title>
+      <link>https://bluecollarcoding.github.io/rainwater-collection/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <author>zach@bluecollarcoding.ca (Zach Ramsay)</author>
+      <guid>https://bluecollarcoding.github.io/rainwater-collection/</guid>
+      <description>Some rainwater collection systems I have set up.
+My Backyard The first and most challenging. This was an at time frustrating learning experience coupled with most hardware stores being closed during the height of covid lockdowns (luckily TSC was open, I eventually discovered).
+First Customer Ironically watering a lawn :(
+The Full Package Sarah&amp;rsquo;s place</description>
+    </item>
+    
+    <item>
+      <title>Irrigation Systems</title>
+      <link>https://bluecollarcoding.github.io/irrigation-systems/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <author>zach@bluecollarcoding.ca (Zach Ramsay)</author>
+      <guid>https://bluecollarcoding.github.io/irrigation-systems/</guid>
+      <description>Watering the garden takes a lot of time, so I wanted to automate it.</description>
+    </item>
+    
+    <item>
+      <title>Chicken Coops</title>
+      <link>https://bluecollarcoding.github.io/chicken-coops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>zach@bluecollarcoding.ca (Zach Ramsay)</author>
+      <guid>https://bluecollarcoding.github.io/chicken-coops/</guid>
+      <description>Our old coop was an abomination; a repurposed hawk mew that was poorly built. The structure required ongoing maintenance and invited rats between the cracks.</description>
+    </item>
+    
+  </channel>
+</rss>
